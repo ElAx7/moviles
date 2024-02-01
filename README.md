@@ -23,4 +23,5 @@ Lo que aprendí:
 Link al video: https://youtu.be/lf0EtzTTQXE
 
 Screenshots de la app:
+
 <img width="484" alt="Captura de Pantalla 2024-02-01 a la(s) 3 56 51 p m" src="https://github.com/ElAx7/moviles/assets/125324367/662e62dc-424e-4d58-8035-5a0a98fb52d0">
