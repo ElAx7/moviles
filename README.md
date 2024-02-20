@@ -8,7 +8,7 @@ Lo que aprendí: Aprendi el uso de listView y listTitle que si lo hubiese sabido
 Tambien aprendi el uso de datos JSON para hacer uso de ellos.
 
 
-Link al video: https://youtu.be/qVhaQfAkMnQ
+Link al video: https://youtu.be/wXDQ7xAZGkw
 
 Screenshots de la app:
 
